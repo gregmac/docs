@@ -24,7 +24,7 @@ https://www.costco.ca/Wi-Fi-Smart-Plug%2C-2-pack.product.100417575.html 24.99 CA
 
 ### OTA Flash
 
-Successfully flashed to Tasmota 8.1.0 using [Tuya-Convert](https://github.com/ct-Open-Source/tuya-convert) [v2.4.4](https://github.com/ct-Open-Source/tuya-convert/releases/tag/v2.4.4), then upgraded to 9.1.0. Devices purchased 2019, no official firmware updates applied. 
+Successfully flashed to Tasmota 8.1.0.2 using [Tuya-Convert](https://github.com/ct-Open-Source/tuya-convert) [v2.4.4](https://github.com/ct-Open-Source/tuya-convert/releases/tag/v2.4.4), then upgraded to 9.1.0. Devices purchased 2019, no official firmware updates applied. 
 
 ### Flashing
 GPIO0 Needs to be grounded in order to get into flashing mode.
